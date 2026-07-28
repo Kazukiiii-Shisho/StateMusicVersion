@@ -1,1 +1,1 @@
-{ "version": "6.3 : Fix some bugs and new feature" }
+{ "version": "6.4 : Fix LowHP and MidHP not working properly on certain conditions" }
