@@ -1,1 +1,1 @@
-{ "version": "6.4 : Fix LowHP and MidHP not working properly on certain conditions" }
+{ "version": "6.5 : Fix loops bug. No need to update if you don't use loops" }
