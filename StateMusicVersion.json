@@ -1,1 +1,1 @@
-{ "version": "6.5 : Fix loops bug. No need to update if you don't use loops" }
+{ "version": "6.6 : Fixed per-monster Mid-HP/Low-HP themes not playing unless a global Low-HP theme was also set" }
